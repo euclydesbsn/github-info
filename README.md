@@ -11,6 +11,8 @@ Also, we need you to send us your resume to wesckley.uno@creditoo.com.br and, pl
 
 - Angular 5+
 - Angular Material
+- Use Unit Test
+- Responsive, functional and beautiful design (UX)
 - Khow how to work with Linux
 - Khow how to work with GIT
 - Like to be challenged
@@ -24,8 +26,3 @@ Using the requirements, create an app that get data about a github account. The 
 What information should the app show? We'll leave it to you. You can show the whatever you deem important or interesting, and int the layout, whatever you think that will be pretty and functional. :wink: 
 
 Remember to comment the code and commits preferably in english and write the project *README* which must contain the steps to install and run the app on a debian based linux machine (debian, ubuntu, etc).
-
-
-### Some extras
-- Use Unit Test
-- Responsive, functional and beautiful design (UX)
