@@ -25,9 +25,9 @@
           <mat-list-item role="listitem" *ngIf="user.blog"><i class="material-icons">link</i> <a [href]="user.blog" target="_blank">{{ user.blog }}</a></mat-list-item>
           <mat-list-item role="listitem"><i class="material-icons">cake</i> {{ user.created_at }}</mat-list-item>
         </mat-list>
-        <p class="follow"><span class="counter">{{ user.followers }}</span><a href="https://github.com/{{user.login}}/followers" class="uncolored" target="_blank">Following
+        <p class="follow"><span class="counter">{{ user.followers }}</span> <a href="https://github.com/{{user.login}}/followers" class="uncolored" target="_blank">Followers
         </a></p>
-        <p class="follow"><span class="counter">{{ user.following }}</span><a href="https://github.com/{{user.login}}/following" class="uncolored" target="_blank">Following
+        <p class="follow"><span class="counter">{{ user.following }}</span> <a href="https://github.com/{{user.login}}/following" class="uncolored" target="_blank">Following
         </a></p>
       </mat-card-content>
     </mat-card>
